@@ -141,9 +141,7 @@ The Power BI report (`Credit Card Spending.pbix`) is built to be explored:
 
 
  https://github.com/pritammanik597-cpu/Credit-Card-Spending.git
-```
 
----
 
 ## Limitations
 
@@ -153,4 +151,4 @@ The Power BI report (`Credit Card Spending.pbix`) is built to be explored:
 
 ---
 
-<p align="center"><i>If you found this project useful, consider giving it a ⭐</i></p>
+
